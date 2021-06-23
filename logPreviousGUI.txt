@@ -1,0 +1,6 @@
+
+Weather Stats for - LONDON | 23 Jun 2021 | 11:08:18 AM
+	 Current temperature is: 8.51°C
+	 Current weather desc  : broken clouds
+	 Current Humidity      : 90%
+	 Current wind speed    : 1.03kmph
